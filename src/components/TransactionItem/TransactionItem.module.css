@@ -3,6 +3,10 @@
     padding: 4px 36px;
 }
 
+.td:first-child {
+    text-transform: capitalize;
+}
+
 .td:not(:first-child) {
     text-align: center;
 }
