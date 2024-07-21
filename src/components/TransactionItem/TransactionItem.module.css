@@ -1,0 +1,8 @@
+.td {
+    border: 1px solid black;
+    padding: 4px 36px;
+}
+
+.td:not(:first-child) {
+    text-align: center;
+}

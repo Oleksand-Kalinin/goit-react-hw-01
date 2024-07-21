@@ -1,0 +1,22 @@
+.friendImage {
+    margin-bottom: 8px;
+}
+
+.friendName {
+    text-align: center;
+    font-size: 20px;
+    margin-bottom: 4px;
+}
+
+.friendStatus {
+    text-align: center;
+    font-size: 12px;
+}
+
+.offline {
+    color: red;
+}
+
+.online {
+    color: green;
+}
